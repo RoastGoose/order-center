@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-30T09:51:22.053Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="55DFuebVBN374jawsFZX" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-30T09:51:52.400Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="xzXthg89TjzVIU57-0od" type="github">
   <diagram id="adT5Hj72i1SFzHfTn9DL" name="Page-1">
     <mxGraphModel dx="1562" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -44,10 +44,10 @@
           <mxGeometry x="35" y="60" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="MJwxScp5eWd2gxEu34i6-12" value="优惠卷" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="980" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MJwxScp5eWd2gxEu34i6-13" value="活动金额" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="770" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MJwxScp5eWd2gxEu34i6-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MJwxScp5eWd2gxEu34i6-14" target="MJwxScp5eWd2gxEu34i6-17">
           <mxGeometry relative="1" as="geometry" />
@@ -56,7 +56,7 @@
           <mxGeometry x="770" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MJwxScp5eWd2gxEu34i6-17" value="支付维度的优惠卷" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="330" width="120" height="60" as="geometry" />
+          <mxGeometry x="980" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MJwxScp5eWd2gxEu34i6-19" value="费用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="90" width="120" height="60" as="geometry" />
