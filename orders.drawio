@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-27T07:56:43.628Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="UVjL_3JS4ILVCFhQxWyh" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-27T10:21:45.694Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="lqK_TIALbiv4gkVRNkzo" version="21.6.1" type="github">
   <diagram id="adT5Hj72i1SFzHfTn9DL" name="Page-1">
     <mxGraphModel dx="1562" dy="846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -208,7 +208,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LGsXtnm90S2zhd1DPzmR-1" value="点击支付" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="1150" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="1130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LGsXtnm90S2zhd1DPzmR-2" value="可用库存" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="541" y="1265" width="120" height="60" as="geometry" />
@@ -286,7 +286,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LGsXtnm90S2zhd1DPzmR-36" value="发起同步" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="1395" width="80" height="80" as="geometry" />
+          <mxGeometry x="320" y="1395" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
