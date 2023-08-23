@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-22T10:32:49.080Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="3eVdfPmJr4GIeQt4IAYi" version="21.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-23T01:59:58.370Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="85JogEvHp0m9Oo3VNdtn" version="21.6.7" type="github">
   <diagram id="adT5Hj72i1SFzHfTn9DL" name="Page-1">
     <mxGraphModel dx="2389" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -326,7 +326,7 @@
         <mxCell id="jTKsRs_mGHpADXBCU9Z3-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jTKsRs_mGHpADXBCU9Z3-1" target="jTKsRs_mGHpADXBCU9Z3-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jTKsRs_mGHpADXBCU9Z3-1" value="全量调用库存变更" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jTKsRs_mGHpADXBCU9Z3-1" value="全量调用库存同步" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-290" y="2080" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jTKsRs_mGHpADXBCU9Z3-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jTKsRs_mGHpADXBCU9Z3-3" target="jTKsRs_mGHpADXBCU9Z3-13">
@@ -384,7 +384,7 @@
         <mxCell id="jTKsRs_mGHpADXBCU9Z3-19" value="获取上架数，实际库存数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="40" y="2080" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jTKsRs_mGHpADXBCU9Z3-22" value="上架数 - 销量 - 异常 = 实际库存" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jTKsRs_mGHpADXBCU9Z3-22" value="上架数 - 销量 - 异常调整 = 实际库存" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="2180" width="240" height="60" as="geometry" />
         </mxCell>
       </root>
